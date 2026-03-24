@@ -1,0 +1,52 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ratings"
+version = "0.1.0"
+description = "Sustainability certification knowledge system for BREEAM, LEED, DGNB, BNB"
+requires-python = ">=3.11"
+dependencies = [
+    # Stage 1 — PDF ingestion
+    "pymupdf4llm>=0.0.17",
+    # Stage 2 — Chunking + LlamaIndex
+    "llama-index-core>=0.10.0",
+    "llama-index-embeddings-openai>=0.1.0",
+    "llama-index-llms-openai>=0.1.0",
+    # Stage 3 — Vector store
+    "llama-index-vector-stores-chroma>=0.1.0",
+    "chromadb>=0.5.0",
+    # Stage 4 — Structured extraction
+    "openai>=1.0",
+    "instructor>=1.0",
+    # Schemas + ORM
+    "pydantic>=2.0",
+    "sqlalchemy>=2.0",
+    # Utilities
+    "python-dotenv>=1.0",
+    "typer>=0.12",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-mock>=3.0",
+]
+
+[project.scripts]
+ratings-ingest     = "ratings.ingest:app"
+ratings-clean      = "ratings.clean:app"
+ratings-chunk      = "ratings.chunk:app"
+ratings-vectorstore = "ratings.vectorstore:app"
+ratings-extract    = "ratings.extract:app"
+ratings-database   = "ratings.database:app"
+ratings-query      = "ratings.query:app"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["ratings*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]

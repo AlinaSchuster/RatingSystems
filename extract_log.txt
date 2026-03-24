@@ -1,0 +1,615 @@
+Processing 612 chunk(s) for scheme: BNB
+  [1/612] Extracting ... -> 1.1.1 Treibhauspotenzial (GWP)
+  [2/612] Extracting ... -> BNB_BN 1.1.1
+  [3/612] Extracting ... -> Treibhauspotenzial (GWP)
+  [4/612] Extracting ... -> 1.1.1 Treibhauspotenzial (GWP)
+  [5/612] Extracting ... -> Treibhauspotenzial (GWP)
+  [6/612] Extracting ... -> Treibhauspotenzial (GWP)
+  [7/612] Extracting ... -> Treibhauspotenzial (GWP)
+  [8/612] Extracting ... -> Treibhauspotenzial (GWP)
+  [9/612] Extracting ... -> 1.1.1 Treibhauspotenzial (GWP)
+  [10/612] Extracting ... -> Treibhauspotenzial (GWP)
+  [11/612] Extracting ... -> 1.1.1 Treibhauspotenzial (GWP)
+  [12/612] Extracting ... -> 1.1.1 Treibhauspotenzial (GWP)
+  [13/612] Extracting ... -> 1.1.1 Treibhauspotenzial (GWP)
+  [14/612] Extracting ... -> BNB 1.1.1
+  [15/612] Extracting ... -> Treibhauspotenzial (GWP)
+  [16/612] Extracting ... -> Treibhauspotenzial (GWP)
+  [17/612] Extracting ... -> Treibhauspotenzial (GWP)
+  [18/612] Extracting ... -> Treibhauspotenzial (GWP)
+  [19/612] Extracting ... -> 1.1.1 Treibhauspotenzial (GWP)
+  [20/612] Extracting ... -> 1.1.1 Treibhauspotenzial (GWP)
+  [21/612] Extracting ... -> 1.1.1 Treibhauspotenzial (GWP)
+  [22/612] Extracting ... -> 1.1.1 Treibhauspotenzial (GWP)
+  [23/612] Extracting ... -> BN 1.1.1
+  [24/612] Extracting ... -> BNB_BN 1.1.1
+  [25/612] Extracting ... -> BN 1.1.1
+  [26/612] Extracting ... -> BN 1.1.1
+  [27/612] Extracting ... -> BN 1.1.1
+  [28/612] Extracting ... -> BNB_BN 1.1.1
+  [29/612] Extracting ... -> BN 1.1.1
+  [30/612] Extracting ... -> BN 1.1.1
+  [31/612] Extracting ... -> BN 1.1.1
+  [32/612] Extracting ... -> BNB_BN 1.1.1
+  [33/612] Extracting ... -> BNB_BN 1.1.1
+  [34/612] Extracting ... -> BN 1.1.1 Treibhauspotenzial (GWP)
+  [35/612] Extracting ... -> BN 1.1.1
+  [36/612] Extracting ... -> BNB_BN 2.2.1
+  [37/612] Extracting ... -> Flächeneffizienz
+  [38/612] Extracting ... -> BNB_BN 2.2.1
+  [39/612] Extracting ... -> BN 1.1.1
+  [40/612] Extracting ... -> Flächeneffizienz
+  [41/612] Extracting ... -> Unknown
+  [42/612] Extracting ... -> BN 2.2.1
+  [43/612] Extracting ... -> BNB_BN 2.2.1
+  [44/612] Extracting ... -> BNB_BN 2.2.1
+  [45/612] Extracting ... -> BNB_BN 2.2.1
+  [46/612] Extracting ... -> BNB_BN 2.2.1
+  [47/612] Extracting ... -> BNB_BN 2.2.1
+  [48/612] Extracting ... -> BN 2.2.1
+  [49/612] Extracting ... -> BNB_BN 2.2.1
+  [50/612] Extracting ... -> BNB_BN 2.2.1
+  [51/612] Extracting ... -> Flächeneffizienz
+  [52/612] Extracting ... -> BN 2.2.1
+  [53/612] Extracting ... -> BN 2.2.1
+  [54/612] Extracting ... -> BNB_BN 2.2.1
+  [55/612] Extracting ... -> BNB_BN 2.2.1
+  [56/612] Extracting ... -> BN 2.2.1
+  [57/612] Extracting ... -> BNB_BN 2.2.1
+  [58/612] Extracting ... -> BNB_BN 2.2.1
+  [59/612] Extracting ... -> BN 2.2.1
+  [60/612] Extracting ... -> Unknown
+  [61/612] Extracting ... -> BN 2.2.1
+  [62/612] Extracting ... -> BNB_BN 2.2.1
+  [63/612] Extracting ... -> BNB_BN 2.2.1
+  [64/612] Extracting ... -> BNB_BN 2.2.1
+  [65/612] Extracting ... -> BNB_BN 2.2.1
+  [66/612] Extracting ... -> BNB_BN 2.2.1
+  [67/612] Extracting ... -> BNB_BN 2.2.1
+  [68/612] Extracting ... -> BNB_BN 2.2.1
+  [69/612] Extracting ... -> BNB_BN 2.2.1
+  [70/612] Extracting ... -> BNB_BN 2.2.1
+  [71/612] Extracting ... -> BNB_BN 2.2.1
+  [72/612] Extracting ... -> BNB_BN 2.2.1
+  [73/612] Extracting ... -> BNB_BN 2.2.1
+  [74/612] Extracting ... -> BNB_BN 2.2.1
+  [75/612] Extracting ... -> BNB_BN 2.2.1
+  [76/612] Extracting ... -> BNB_BN 2.2.1
+  [77/612] Extracting ... -> BNB_BN 2.2.1
+  [78/612] Extracting ... -> BNB_BN 2.2.1
+  [79/612] Extracting ... -> BNB_BN 2.2.1
+  [80/612] Extracting ... -> BNB_BN 2.2.1
+  [81/612] Extracting ... -> BNB_BN 2.2.1
+  [82/612] Extracting ... -> BNB_BN 2.2.1
+  [83/612] Extracting ... -> Flächeneffizienz
+  [84/612] Extracting ... -> BNB_BN 2.2.1
+  [85/612] Extracting ... -> BNB_BN 2.2.1
+  [86/612] Extracting ... -> BNB_BN 2.2.1
+  [87/612] Extracting ... -> BNB_BN 2.2.1
+  [88/612] Extracting ... -> BN 3.1.3
+  [89/612] Extracting ... -> Innenraumlufthygiene
+  [90/612] Extracting ... -> BN 3.1.3
+  [91/612] Extracting ... -> BN 3.1.3
+  [92/612] Extracting ... -> BN 3.1.3
+  [93/612] Extracting ... -> Flüchtige organische Verbindungen und andere chemische Stoffe
+  [94/612] Extracting ... -> BN 3.1.3
+  [95/612] Extracting ... -> BN 3.1.3
+  [96/612] Extracting ... -> BNB_BN_3.1.3
+  [97/612] Extracting ... -> 3.1.3 Innenraumluftqualität
+  [98/612] Extracting ... -> Geruchliche Situation
+  [99/612] Extracting ... -> BN 3.1.3
+  [100/612] Extracting ... -> BN 3.1.3
+  [101/612] Extracting ... -> Unknown
+  [102/612] Extracting ... -> Innenraumlufthygiene
+  [103/612] Extracting ... -> BN 3.1.3
+  [104/612] Extracting ... -> Kohlendioxidgehalt
+  [105/612] Extracting ... -> Unknown
+  [106/612] Extracting ... -> Unknown
+  [107/612] Extracting ... -> BN 3.1.3
+  [108/612] Extracting ... -> BN 3.1.3
+  [109/612] Extracting ... -> Unknown
+  [110/612] Extracting ... -> Unknown
+  [111/612] Extracting ... -> BNB 1.1.6
+  [112/612] Extracting ... -> BNB 1.1.6
+  [113/612] Extracting ... -> Unknown
+  [114/612] Extracting ... -> BN 3.1.3
+  [115/612] Extracting ... -> BN 3.1.3
+  [116/612] Extracting ... -> Innenraumlufthygiene
+  [117/612] Extracting ... -> BN 3.1.3
+  [118/612] Extracting ... -> BN 3.1.3
+  [119/612] Extracting ... -> Unknown
+  [120/612] Extracting ... -> 4. Geruchliche Situation
+  [121/612] Extracting ... -> 4. Geruchliche Situation
+  [122/612] Extracting ... -> Geruchliche Situation
+  [123/612] Extracting ... -> Geruchliche Situation
+  [124/612] Extracting ... -> Geruchliche Situation
+  [125/612] Extracting ... -> Unknown
+  [126/612] Extracting ... -> Innenraumlufthygiene
+  [127/612] Extracting ... -> Flüchtige organische Verbindungen (VOC) und Formaldehyd
+  [128/612] Extracting ... -> Unknown
+  [129/612] Extracting ... -> BN 3.1.3
+  [130/612] Extracting ... -> BN 3.1.3
+  [131/612] Extracting ... -> Gesundheit, Behaglichkeit und Nutzerzufriedenheit
+  [132/612] Extracting ... -> BN 3.1.3
+  [133/612] Extracting ... -> Anforderung an die Formaldehyd-Konzentrationen
+  [134/612] Extracting ... -> Formaldehyd-Konzentrationen
+  [135/612] Extracting ... -> Anforderung an die Formaldehyd-Konzentrationen
+  [136/612] Extracting ... -> Formaldehyd-Konzentrationen
+  [137/612] Extracting ... -> Formaldehyd-Konzentrationen
+  [138/612] Extracting ... -> Gesundheit, Behaglichkeit und Nutzerzufriedenheit
+  [139/612] Extracting ... -> Innenraumlufthygiene
+  [140/612] Extracting ... -> Unknown
+  [141/612] Extracting ... -> Unknown
+  [142/612] Extracting ... -> Unknown
+  [143/612] Extracting ... -> Unknown
+  [144/612] Extracting ... -> Erg RaumtypA
+  [145/612] Extracting ... -> BN 3.1.3
+  [146/612] Extracting ... -> Gesamtpunkte flächengewichtet: VOC
+  [147/612] Extracting ... -> Unknown
+  [148/612] Extracting ... -> BN 3.1.3
+  [149/612] Extracting ... -> Innenraumlufthygiene
+  [150/612] Extracting ... -> Innenraumlufthygiene
+  [151/612] Extracting ... -> Innenraumlufthygiene
+  [152/612] Extracting ... -> Innenraumlufthygiene
+  [153/612] Extracting ... -> Innenraumlufthygiene
+  [154/612] Extracting ... -> Innenraumlufthygiene
+  [155/612] Extracting ... -> Innenraumlufthygiene
+  [156/612] Extracting ... -> Innenraumlufthygiene
+  [157/612] Extracting ... -> Innenraumlufthygiene
+  [158/612] Extracting ... -> Innenraumlufthygiene
+  [159/612] Extracting ... -> Innenraumlufthygiene
+  [160/612] Extracting ... -> Innenraumlufthygiene
+  [161/612] Extracting ... -> 3.1.3 Innenraumlufthygiene - Formaldehyd
+  [162/612] Extracting ... -> Innenraumlufthygiene
+  [163/612] Extracting ... -> Innenraumlufthygiene
+  [164/612] Extracting ... -> Innenraumlufthygiene
+  [165/612] Extracting ... -> Innenraumlufthygiene
+  [166/612] Extracting ... -> Innenraumlufthygiene
+  [167/612] Extracting ... -> Innenraumlufthygiene
+  [168/612] Extracting ... -> Innenraumlufthygiene
+  [169/612] Extracting ... -> Innenraumlufthygiene
+  [170/612] Extracting ... -> Innenraumlufthygiene
+  [171/612] Extracting ... -> Unknown
+  [172/612] Extracting ... -> Innenraumlufthygiene – Formaldehyd
+  [173/612] Extracting ... -> Kohlendioxidgehalt
+  [174/612] Extracting ... -> Unknown
+  [175/612] Extracting ... -> Unknown
+  [176/612] Extracting ... -> Unknown
+  [177/612] Extracting ... -> Außenluftvolumenstrom
+  [178/612] Extracting ... -> 3.1.3
+  [179/612] Extracting ... -> Unknown
+  [180/612] Extracting ... -> Unknown
+  [181/612] Extracting ... -> Unknown
+  [182/612] Extracting ... -> Innenraumlufthygiene
+  [183/612] Extracting ... -> Unknown
+  [184/612] Extracting ... -> Unknown
+  [185/612] Extracting ... -> Unknown
+  [186/612] Extracting ... -> Mechanische Lüftung
+  [187/612] Extracting ... -> Außenluftvolumenstrom bei mechanischer Lüftung
+  [188/612] Extracting ... -> Unknown
+  [189/612] Extracting ... -> Fensterlüftung
+  [190/612] Extracting ... -> Unknown
+  [191/612] Extracting ... -> Der Außenluftvolumenstrom bei einer mechanischen Lüftung
+  [192/612] Extracting ... -> Unknown
+  [193/612] Extracting ... -> Unknown
+  [194/612] Extracting ... -> BNB_BN 3.1.3
+  [195/612] Extracting ... -> Innenraumlufthygiene
+  [196/612] Extracting ... -> BN 3.1.3
+  [197/612] Extracting ... -> Unknown
+  [198/612] Extracting ... -> Unknown
+  [199/612] Extracting ... -> Unknown
+  [200/612] Extracting ... -> Unknown
+  [201/612] Extracting ... -> Unknown
+  [202/612] Extracting ... -> Unknown
+  [203/612] Extracting ... -> Gesundheit, Behaglichkeit und Nutzerzufriedenheit
+  [204/612] Extracting ... -> Zusatzpunkte für reine Fensterlüftung
+  [205/612] Extracting ... -> Hybride Lüftung
+  [206/612] Extracting ... -> Lüftungsqualität
+  [207/612] Extracting ... -> Hybride Lüftung
+  [208/612] Extracting ... -> 3.1.3
+  [209/612] Extracting ... -> Innenraumlufthygiene
+  [210/612] Extracting ... -> Hybride Lüftung
+  [211/612] Extracting ... -> Hybride Lüftung
+  [212/612] Extracting ... -> Hybride Lüftung
+  [213/612] Extracting ... -> Mikrobiologische Situation
+  [214/612] Extracting ... -> Hybride Lüftung
+  [215/612] Extracting ... -> Unknown
+  [216/612] Extracting ... -> Unknown
+  [217/612] Extracting ... -> Unknown
+  [218/612] Extracting ... -> Unknown
+  [219/612] Extracting ... -> Hybride Lüftung
+  [220/612] Extracting ... -> BNB_BN 3.1.3
+  [221/612] Extracting ... -> Innenraumlufthygiene
+  [222/612] Extracting ... -> BNB_BN 3.1.3
+  [223/612] Extracting ... -> BN 3.1.3
+  [224/612] Extracting ... -> BNB_BN 3.1.3
+  [225/612] Extracting ... -> BNB_BN 3.1.3
+  [226/612] Extracting ... -> BN 3.1.3
+  [227/612] Extracting ... -> BNB_BN 3.1.3
+  [228/612] Extracting ... -> BNB_BN 3.1.3
+  [229/612] Extracting ... -> BN 3.1.3
+  [230/612] Extracting ... -> BN 3.1.3
+  [231/612] Extracting ... -> BN 3.1.3
+  [232/612] Extracting ... -> BNB_BN 3.1.3
+  [233/612] Extracting ... -> BNB_BN_3.1.3
+  [234/612] Extracting ... -> BN 3.1.3
+  [235/612] Extracting ... -> BN 3.1.3
+  [236/612] Extracting ... -> Gesundheit, Behaglichkeit und Nutzerzufriedenheit
+  [237/612] Extracting ... -> Innenraumlufthygiene
+  [238/612] Extracting ... -> Unknown
+  [239/612] Extracting ... -> Raumluftqualität - Hygieneanforderungen
+  [240/612] Extracting ... -> Unknown
+  [241/612] Extracting ... -> Unknown
+  [242/612] Extracting ... -> Unknown
+  [243/612] Extracting ... -> Unknown
+  [244/612] Extracting ... -> Unknown
+  [245/612] Extracting ... -> Unknown
+  [246/612] Extracting ... -> Unknown
+  [247/612] Extracting ... -> Unknown
+  [248/612] Extracting ... -> Unknown
+  [249/612] Extracting ... -> Unknown
+  [250/612] Extracting ... -> Unknown
+  [251/612] Extracting ... -> Innenraumlufthygiene
+  [252/612] Extracting ... -> 3.1.3
+  [253/612] Extracting ... -> BN 3.1.3
+  [254/612] Extracting ... -> Unknown
+  [255/612] Extracting ... -> Kohlendioxidgehalt
+  [256/612] Extracting ... -> Raumluftmessung
+  [257/612] Extracting ... -> Unknown
+  [258/612] Extracting ... -> BN 3.1.3
+  [259/612] Extracting ... -> Hybridlüftung
+  [260/612] Extracting ... -> Hybridlüftung
+  [261/612] Extracting ... -> Unknown
+  [262/612] Extracting ... -> Innenraumlufthygiene
+  [263/612] Extracting ... -> Unknown
+  [264/612] Extracting ... -> Unknown
+  [265/612] Extracting ... -> Gesundheit, Behaglichkeit und Nutzerzufriedenheit
+  [266/612] Extracting ... -> Unknown
+  [267/612] Extracting ... -> Luftwechsel für Räume für aktive Tätigkeiten
+  [268/612] Extracting ... -> Unknown
+  [269/612] Extracting ... -> BN 3.1.3
+  [270/612] Extracting ... -> Innenraumlufthygiene
+  [271/612] Extracting ... -> BN 3.1.3
+  [272/612] Extracting ... -> BN 3.1.3
+  [273/612] Extracting ... -> BN 3.1.3
+  [274/612] Extracting ... -> BN 3.1.3
+  [275/612] Extracting ... -> BN 3.1.3
+  [276/612] Extracting ... -> Unknown
+  [277/612] Extracting ... -> Flüchtige organische Verbindungen (VOC) und Formaldehyd
+  [278/612] Extracting ... -> Flüchtige organische Verbindungen (VOC) und Formaldehyd
+  [279/612] Extracting ... -> Flüchtige organische Verbindungen (VOC) und Formaldehyd
+  [280/612] Extracting ... -> Flüchtige organische Verbindungen (VOC) und Formaldehyd
+  [281/612] Extracting ... -> Flüchtige organische Verbindungen (VOC) und Formaldehyd
+  [282/612] Extracting ... -> Flüchtige organische Verbindungen (VOC) und Formaldehyd
+  [283/612] Extracting ... -> Flüchtige organische Verbindungen (VOC) und Formaldehyd
+  [284/612] Extracting ... -> BN 3.1.3
+  [285/612] Extracting ... -> BN 3.1.3
+  [286/612] Extracting ... -> BNB_BN_3.1.3 Innenraumlufthygiene
+  [287/612] Extracting ... -> Kohlendioxidgehalt Mechanische Lüftung
+  [288/612] Extracting ... -> BNB_BN_3.1.3
+  [289/612] Extracting ... -> BNB_BN_3.1.3
+  [290/612] Extracting ... -> BNB_BN 3.1.3
+  [291/612] Extracting ... -> BN 3.1.3
+  [292/612] Extracting ... -> BNB_BN 3.1.3
+  [293/612] Extracting ... -> Innenraumlufthygiene
+  [294/612] Extracting ... -> BN 3.1.3
+  [295/612] Extracting ... -> BNB_BN 3.1.3
+  [296/612] Extracting ... -> BNB_BN_3.1.3
+  [297/612] Extracting ... -> BNB_BN_3.1.3
+  [298/612] Extracting ... -> Gesundheit Behaglichkeit und Nutzerzufriedenheit
+  [299/612] Extracting ... -> BNB_BN 3.1.3
+  [300/612] Extracting ... -> BNB_BN_3.1.3
+  [301/612] Extracting ... -> BNB_BN_3.1.3
+  [302/612] Extracting ... -> BNB_BN 3.1.3
+  [303/612] Extracting ... -> 3.1.3 Innenraumlufthygiene
+  [304/612] Extracting ... -> BNB_BN_3.1.3
+  [305/612] Extracting ... -> BNB_BN 3.1.3
+  [306/612] Extracting ... -> Innenraumlufthygiene
+  [307/612] Extracting ... -> Innenraumlufthygiene
+  [308/612] Extracting ... -> Innenraumlufthygiene
+  [309/612] Extracting ... -> Innenraumlufthygiene
+  [310/612] Extracting ... -> Innenraumlufthygiene
+  [311/612] Extracting ... -> Innenraumlufthygiene
+  [312/612] Extracting ... -> Innenraumlufthygiene
+  [313/612] Extracting ... -> Innenraumlufthygiene
+  [314/612] Extracting ... -> Innenraumlufthygiene
+  [315/612] Extracting ... -> Innenraumlufthygiene
+  [316/612] Extracting ... -> Innenraumlufthygiene
+  [317/612] Extracting ... -> Innenraumlufthygiene
+  [318/612] Extracting ... -> Innenraumlufthygiene
+  [319/612] Extracting ... -> Innenraumlufthygiene
+  [320/612] Extracting ... -> Innenraumlufthygiene
+  [321/612] Extracting ... -> Innenraumlufthygiene
+  [322/612] Extracting ... -> Innenraumlufthygiene
+  [323/612] Extracting ... -> Unknown
+  [324/612] Extracting ... -> Unknown
+  [325/612] Extracting ... -> Unknown
+  [326/612] Extracting ... -> Unknown
+  [327/612] Extracting ... -> Unknown
+  [328/612] Extracting ... -> Unknown
+  [329/612] Extracting ... -> Emissionsarme Reinigungsprodukte
+  [330/612] Extracting ... -> Unknown
+  [331/612] Extracting ... -> Unknown
+  [332/612] Extracting ... -> Pflichtmessungen
+  [333/612] Extracting ... -> Unknown
+  [334/612] Extracting ... -> C 1
+  [335/612] Extracting ... -> BNB_BN 3.1.3
+  [336/612] Extracting ... -> Innenraumhygiene
+  [337/612] Extracting ... -> BN 3.1.3 Innenraumhygiene
+  [338/612] Extracting ... -> BN 3.1.3 Innenraumhygiene
+  [339/612] Extracting ... -> Innenraumhygiene
+  [340/612] Extracting ... -> Innenraumhygiene
+  [341/612] Extracting ... -> QN 1
+  [342/612] Extracting ... -> VOC und Formaldehyd Messung
+  [343/612] Extracting ... -> Unknown
+  [344/612] Extracting ... -> Unknown
+  [345/612] Extracting ... -> Unknown
+  [346/612] Extracting ... -> Räume mit gemischten Lüftungskonzepten (Hybridlüftung)
+  [347/612] Extracting ... -> Unknown
+  [348/612] Extracting ... -> BN 3.1.3
+  [349/612] Extracting ... -> Innenraumhygiene
+  [350/612] Extracting ... -> Innenraumhygiene
+  [351/612] Extracting ... -> Innenraumhygiene
+  [352/612] Extracting ... -> Innenraumhygiene
+  [353/612] Extracting ... -> BN 3.1.3
+  [354/612] Extracting ... -> BN 3.1.3
+  [355/612] Extracting ... -> Innenraumhygiene
+  [356/612] Extracting ... -> BN 3.1.3
+  [357/612] Extracting ... -> BN 3.1.3 Innenraumhygiene
+  [358/612] Extracting ... -> BN 3.1.3
+  [359/612] Extracting ... -> BN 3.1.3
+  [360/612] Extracting ... -> BN 3.1.3
+  [361/612] Extracting ... -> 3.1.3
+  [362/612] Extracting ... -> Innenraumhygiene
+  [363/612] Extracting ... -> Unknown
+  [364/612] Extracting ... -> Unknown
+  [365/612] Extracting ... -> Unknown
+  [366/612] Extracting ... -> Unknown
+  [367/612] Extracting ... -> Unknown
+  [368/612] Extracting ... -> Unknown
+  [369/612] Extracting ... -> Unknown
+  [370/612] Extracting ... -> Unknown
+  [371/612] Extracting ... -> Berechnung des Mittelwertes der CO2-Konzentration
+  [372/612] Extracting ... -> Nachzuweisende Räume
+  [373/612] Extracting ... -> BN 3.1.3
+  [374/612] Extracting ... -> 1.1.1 Treibhauspotenzial (GWP)
+  [375/612] Extracting ... -> 1.1.1 Treibhauspotenzial (GWP)
+  [376/612] Extracting ... -> Schallschutz
+  [377/612] Extracting ... -> Unknown
+  [378/612] Extracting ... -> Unknown
+  [379/612] Extracting ... -> 1.1.1 Treibhauspotenzial (GWP)
+  [380/612] Extracting ... -> Unknown
+  [381/612] Extracting ... -> Unknown
+  [382/612] Extracting ... -> Unknown
+  [383/612] Extracting ... -> Treibhauspotenzial (GWP)
+  [384/612] Extracting ... -> BN 1.1.1 Treibhauspotenzial (GWP)
+  [385/612] Extracting ... -> 1.1.1 Treibhauspotenzial (GWP)
+  [386/612] Extracting ... -> Unknown
+  [387/612] Extracting ... -> Unknown
+  [388/612] Extracting ... -> 4.1.1 Schallschutz
+  [389/612] Extracting ... -> Unknown
+  [390/612] Extracting ... -> Unknown
+  [391/612] Extracting ... -> Unknown
+  [392/612] Extracting ... -> Unknown
+  [393/612] Extracting ... -> Unknown
+  [394/612] Extracting ... -> Unknown
+  [395/612] Extracting ... -> Unknown
+  [396/612] Extracting ... -> Unknown
+  [397/612] Extracting ... -> Unknown
+  [398/612] Extracting ... -> Unknown
+  [399/612] Extracting ... -> Unknown
+  [400/612] Extracting ... -> Unknown
+  [401/612] Extracting ... -> Unknown
+  [402/612] Extracting ... -> 4.1.1 Schallschutz
+  [403/612] Extracting ... -> Schallschutz
+  [404/612] Extracting ... -> 4.1.1 Schallschutz
+  [405/612] Extracting ... -> Unknown
+  [406/612] Extracting ... -> Unknown
+  [407/612] Extracting ... -> Unknown
+  [408/612] Extracting ... -> Unknown
+  [409/612] Extracting ... -> Schallschutz
+  [410/612] Extracting ... -> Schallschutz
+  [411/612] Extracting ... -> 4.1.1 Schallschutz
+  [412/612] Extracting ... -> Schallschutz
+  [413/612] Extracting ... -> 1. Luftschallschutz gegen Außenlärm
+  [414/612] Extracting ... -> 4.1.1 Schallschutz
+  [415/612] Extracting ... -> Luftschallschutz gegenüber Arbeitsräumen
+  [416/612] Extracting ... -> Unknown
+  [417/612] Extracting ... -> Unbekannt
+  [418/612] Extracting ... -> Unknown
+  [419/612] Extracting ... -> 2. Luftschallschutz gegenüber Arbeitsräumen
+  [420/612] Extracting ... -> 4.1.1 Schallschutz
+  [421/612] Extracting ... -> 4.1.1 Schallschutz
+  [422/612] Extracting ... -> BNB_BN 4.1.1 Schallschutz
+  [423/612] Extracting ... -> 4.1.1 Schallschutz
+  [424/612] Extracting ... -> 4.1.1 Schallschutz
+  [425/612] Extracting ... -> Schallschutz
+  [426/612] Extracting ... -> Unknown
+  [427/612] Extracting ... -> Unknown
+  [428/612] Extracting ... -> Schallschutz gegenüber gebäudetechnischen Anlagen
+  [429/612] Extracting ... -> 4.1.1 Schallschutz
+  [430/612] Extracting ... -> Unknown
+  [431/612] Extracting ... -> Unknown
+  [432/612] Extracting ... -> Unknown
+  [433/612] Extracting ... -> Luftschallschutz gegenüber Arbeitsräumen
+  [434/612] Extracting ... -> Luftschallschutz gegenüber Arbeitsräumen
+  [435/612] Extracting ... -> Schallschutz
+  [436/612] Extracting ... -> Unbekannt
+  [437/612] Extracting ... -> Unknown
+  [438/612] Extracting ... -> Unknown
+  [439/612] Extracting ... -> Unknown
+  [440/612] Extracting ... -> Unknown
+  [441/612] Extracting ... -> Unbekannt
+  [442/612] Extracting ... -> Unknown
+  [443/612] Extracting ... -> Schallschutz
+  [444/612] Extracting ... -> Unknown
+  [445/612] Extracting ... -> Unknown
+  [446/612] Extracting ... -> Unknown
+  [447/612] Extracting ... -> Unknown
+  [448/612] Extracting ... -> Unknown
+  [449/612] Extracting ... -> Unknown
+  [450/612] Extracting ... -> Unknown
+  [451/612] Extracting ... -> Schallschutz
+  [452/612] Extracting ... -> BNB_BN_4.1.1
+  [453/612] Extracting ... -> 4.1.1
+  [454/612] Extracting ... -> BNB_BN 4.1.1
+  [455/612] Extracting ... -> Unknown
+  [456/612] Extracting ... -> Unknown
+  [457/612] Extracting ... -> Unknown
+  [458/612] Extracting ... -> Unknown
+  [459/612] Extracting ... -> BNB_BN 6.1.6
+  [460/612] Extracting ... -> BNB_BN 6.1.6
+  [461/612] Extracting ... -> BNB_BN 6.1.6
+  [462/612] Extracting ... -> BNB_BN 6.1.6
+  [463/612] Extracting ... -> BNB_BN 6.1.6
+  [464/612] Extracting ... -> BNB_BN 6.1.6
+  [465/612] Extracting ... -> BNB_BN 6.1.6
+  [466/612] Extracting ... -> BNB_BN 6.1.6
+  [467/612] Extracting ... -> BNB_BN 6.1.6
+  [468/612] Extracting ... -> BNB_BN 6.1.6
+  [469/612] Extracting ... -> BNB_BN 6.1.6
+  [470/612] Extracting ... -> BNB_BN 6.1.6
+  [471/612] Extracting ... -> BNB_BN 6.1.6
+  [472/612] Extracting ... -> BNB_BN 6.1.6
+  [473/612] Extracting ... -> BNB_BN 6.1.6
+  [474/612] Extracting ... -> BNB_BN 6.1.6
+  [475/612] Extracting ... -> BNB_BN 6.1.6
+  [476/612] Extracting ... -> BNB_BN 6.1.6
+  [477/612] Extracting ... -> BN 6.1.6
+  [478/612] Extracting ... -> BNB_BN 6.1.6
+  [479/612] Extracting ... -> BNB_BN 6.1.6
+  [480/612] Extracting ... -> BNB_BN 6.1.6
+  [481/612] Extracting ... -> BNB_BN 6.1.6
+  [482/612] Extracting ... -> BNB_BN 6.1.6
+  [483/612] Extracting ... -> BNB_BN 6.1.6
+  [484/612] Extracting ... -> BNB_BN 6.1.6
+  [485/612] Extracting ... -> 6.1.6 Anliegende Medien / Erschließung
+  [486/612] Extracting ... -> 6.1.6 Anliegende Medien / Erschließung
+  [487/612] Extracting ... -> Unknown
+  [488/612] Extracting ... -> Breitband-Anschluss
+  [489/612] Extracting ... -> 6.1.6 Anliegende Medien / Erschließung
+  [490/612] Extracting ... -> BNB_BN 6.1.6
+  [491/612] Extracting ... -> BNB_BN 6.1.6
+  [492/612] Extracting ... -> BNB_BN 6.1.6
+  [493/612] Extracting ... -> BNB_BN 6.1.6
+  [494/612] Extracting ... -> BNB_BN 6.1.6
+  [495/612] Extracting ... -> BNB_BN 6.1.6
+  [496/612] Extracting ... -> Leitungsgebundene Energie
+  [497/612] Extracting ... -> 1. Leitungsgebundene Energie
+  [498/612] Extracting ... -> Solarenergie
+  [499/612] Extracting ... -> 2. Solarenergie
+  [500/612] Extracting ... -> Solarnenergie
+  [501/612] Extracting ... -> Solarenergie
+  [502/612] Extracting ... -> Solarenergie
+  [503/612] Extracting ... -> BNB_BN 6.1.6
+  [504/612] Extracting ... -> BNB_BN 6.1.6
+  [505/612] Extracting ... -> BNB_BN 6.1.6
+  [506/612] Extracting ... -> BNB_BN 6.1.6
+  [507/612] Extracting ... -> Regenwasserversickerung
+  [508/612] Extracting ... -> Regenwasserversickerung
+  [509/612] Extracting ... -> Anliegende Medien / Erschließung
+  [510/612] Extracting ... -> Regenwasserversickerung
+  [511/612] Extracting ... -> Unknown
+  [512/612] Extracting ... -> Bilanzierungsregeln für die Erstellung von Ökobilanzen
+  [513/612] Extracting ... -> Unknown
+  [514/612] Extracting ... -> 1.1.1
+  [515/612] Extracting ... -> BN 1.1.1
+  [516/612] Extracting ... -> 1.1.1 Treibhauspotenzial (GWP)
+  [517/612] Extracting ... -> Ozonbildungspotenzial (POCP)
+  [518/612] Extracting ... -> Primärenergiebedarf
+  [519/612] Extracting ... -> Unknown
+  [520/612] Extracting ... -> Unknown
+  [521/612] Extracting ... -> Unknown
+  [522/612] Extracting ... -> Unknown
+  [523/612] Extracting ... -> Unknown
+  [524/612] Extracting ... -> Bilanzierungsregeln für die Erstellung von Ökobilanzen
+  [525/612] Extracting ... -> Unknown
+  [526/612] Extracting ... -> Unknown
+  [527/612] Extracting ... -> Unknown
+  [528/612] Extracting ... -> Unknown
+  [529/612] Extracting ... -> Unknown
+  [530/612] Extracting ... -> Unknown
+  [531/612] Extracting ... -> Unknown
+  [532/612] Extracting ... -> Unknown
+  [533/612] Extracting ... -> Unknown
+  [534/612] Extracting ... -> 3. Berechnung der Umweltwirkung von Bauteilen
+  [535/612] Extracting ... -> Unknown
+  [536/612] Extracting ... -> Unknown
+  [537/612] Extracting ... -> Unknown
+  [538/612] Extracting ... -> Unknown
+  [539/612] Extracting ... -> Endenergiebedarf für die Nutzungsphase
+  [540/612] Extracting ... -> Unknown
+  [541/612] Extracting ... -> Unknown
+  [542/612] Extracting ... -> Unknown
+  [543/612] Extracting ... -> Unknown
+  [544/612] Extracting ... -> Unknown
+  [545/612] Extracting ... -> Unknown
+  [546/612] Extracting ... -> Unknown
+  [547/612] Extracting ... -> Energiebedarf des Gebäudes in der Nutzungsphase
+  [548/612] Extracting ... -> Module C3 und C4
+  [549/612] Extracting ... -> Unknown
+  [550/612] Extracting ... -> Transportaufwände gemäß Modul A4
+  [551/612] Extracting ... -> Unknown
+  [552/612] Extracting ... -> Lebenszyklusphasen (A 1-3, A 4-5, B 1-7, C 1-4, D)
+  [553/612] Extracting ... -> Unknown
+  [554/612] Extracting ... -> Unknown
+  [555/612] Extracting ... -> Lebenswegphasen nach DIN EN 15978
+  [556/612] Extracting ... -> Unknown
+  [557/612] Extracting ... -> Bilanzierungsregeln und Systemgrenzen
+  [558/612] Extracting ... -> Unknown
+  [559/612] Extracting ... -> Abschneidekriterien
+  [560/612] Extracting ... -> Bilanzierungsregeln
+  [561/612] Extracting ... -> Unknown
+  [562/612] Extracting ... -> Primärenergiebedarf
+  [563/612] Extracting ... -> Primärenergiebedarf Bilanzierung
+  [564/612] Extracting ... -> Bilanzierung der Erneuerungen von Bauteilen
+  [565/612] Extracting ... -> Unknown
+  [566/612] Extracting ... -> Ökobilanz End-of-Life-Szenario
+  [567/612] Extracting ... -> Unknown
+  [568/612] Extracting ... -> Unknown
+  [569/612] Extracting ... -> Unknown
+  [570/612] Extracting ... -> Entsorgungs-/Verwertungsweg für mineralische Baustoffe
+  [571/612] Extracting ... -> Unknown
+  [572/612] Extracting ... -> Unknown
+  [573/612] Extracting ... -> Entsorgungsweg Wahl
+  [574/612] Extracting ... -> Besonderheiten bei Eigenstromerzeugungsanlagen
+  [575/612] Extracting ... -> Besonderheiten bei Eigenstromerzeugungsanlagen
+  [576/612] Extracting ... -> Besonderheiten bei Eigenstromerzeugungsanlagen
+  [577/612] Extracting ... -> Besonderheiten bei Eigenstromerzeugungsanlagen
+  [578/612] Extracting ... -> Besonderheiten bei Eigenstromerzeugungsanlagen
+  [579/612] Extracting ... -> Unknown
+  [580/612] Extracting ... -> Innenwände einschließlich Beschichtungen sowie Stützen
+  [581/612] Extracting ... -> Unknown
+  [582/612] Extracting ... -> Unknown
+  [583/612] Extracting ... -> Unknown
+  [584/612] Extracting ... -> 9. Änderungsverlauf
+  [585/612] Extracting ... -> Unknown
+  [586/612] Extracting ... -> BNB-Kriterium 1.1.1
+  [587/612] Extracting ... -> Unknown
+  [588/612] Extracting ... -> Unknown
+  [589/612] Extracting ... -> Treibhauspotenzial
+  [590/612] Extracting ... -> Unknown
+  [591/612] Extracting ... -> Beispiel 1: Ökobilanz
+  [592/612] Extracting ... -> Unknown
+  [593/612] Extracting ... -> Unknown
+  [594/612] Extracting ... -> Unknown
+  [595/612] Extracting ... -> Unknown
+  [596/612] Extracting ... -> Unknown
+  [597/612] Extracting ... -> Unknown
+  [598/612] Extracting ... -> Bilanzierungsregeln für die Erstellung von Ökobilanzen
+  [599/612] Extracting ... -> 1.1.1
+  [600/612] Extracting ... -> 1.2.1.1 GWP
+  [601/612] Extracting ... -> Unknown
+  [602/612] Extracting ... -> Unknown
+  [603/612] Extracting ... -> Unknown
+  [604/612] Extracting ... -> Unknown
+  [605/612] Extracting ... -> Bilanzierung von Außenwänden und Fenster
+  [606/612] Extracting ... -> Bilanzierungsregeln für die Erstellung von Ökobilanzen
+  [607/612] Extracting ... -> Unknown
+  [608/612] Extracting ... -> Bilanzierungsregeln für die Erstellung von Ökobilanzen
+  [609/612] Extracting ... -> Unknown
+  [610/612] Extracting ... -> Unknown
+  [611/612] Extracting ... -> Unknown
+  [612/612] Extracting ... -> Unknown
+
+Extraction complete: 612 criteria saved -> C:\Users\aschuster\OneDrive - B+G Ingenieure Bollinger und Grohmann GmbH\Dokumente\GitHub\RatingSystems\data\processed\BNB\criteria.json

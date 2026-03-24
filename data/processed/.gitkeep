@@ -1,0 +1,3 @@
+# Serialised LlamaIndex nodes (nodes.json) and extracted criteria (criteria.json)
+# are stored here (gitignored).
+# One sub-directory per certification scheme, e.g. data/processed/BREEAM/

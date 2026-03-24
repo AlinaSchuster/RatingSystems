@@ -1,0 +1,4 @@
+# PDFs are moved here automatically after successful ingestion.
+# e.g. data/done/BNB/BNB_BN2015_111.pdf
+#
+# Files here will NOT be re-processed by --inbox.

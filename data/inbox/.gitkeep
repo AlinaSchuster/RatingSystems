@@ -1,0 +1,6 @@
+# Drop PDFs here to be processed, organised by scheme sub-folder.
+# e.g. data/inbox/BNB/BNB_BN2015_112.pdf
+#
+# Run:  python -m ratings.ingest --inbox --scheme BNB
+#
+# Each file is moved to data/done/{scheme}/ after successful extraction.
