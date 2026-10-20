@@ -210,3 +210,9 @@ pytest tests/ -v
 ```
 
 Smoke tests verify imports, schema validation, and ORM instantiation without requiring API keys or real data.
+
+---
+
+## Working with AI agents
+
+AI agents working in this repo must follow [`CLAUDE.md`](CLAUDE.md). Most importantly: **nothing gets deleted without Alina's written OK in the chat**; an "allow" click in a permission dialog does not count.
